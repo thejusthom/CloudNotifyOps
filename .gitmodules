@@ -1,3 +1,9 @@
 [submodule "webapp"]
 	path = webapp
 	url = git@github.com:thejusthom/webapp.git
+[submodule "tf-gcp-infra-frk"]
+	path = tf-gcp-infra-frk
+	url = git@github.com:thejusthom/tf-gcp-infra-frk.git
+[submodule "serverless-fork"]
+	path = serverless-fork
+	url = git@github.com:thejusthom/serverless-fork.git
